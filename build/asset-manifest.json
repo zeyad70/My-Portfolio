@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.8fa7df0c.css",
+    "main.js": "/My-Portfolio/static/js/main.c82a47e1.js",
+    "static/js/453.ace21015.chunk.js": "/My-Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/6.png": "/My-Portfolio/static/media/6.c3a81b888fe488db1339.png",
+    "static/media/0.png": "/My-Portfolio/static/media/0.98fce7d1ce942b30089e.png",
+    "static/media/ZIYAD MOUSA ASIRI.pdf": "/My-Portfolio/static/media/ZIYAD MOUSA ASIRI.c6704753c494da62de9c.pdf",
+    "static/media/1.png": "/My-Portfolio/static/media/1.17d448ee9b68d47f9084.png",
+    "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/44.png": "/My-Portfolio/static/media/44.51b9b13b6830352bfe4b.png",
+    "static/media/22.png": "/My-Portfolio/static/media/22.dec2f9c22609f5b9f6c6.png",
+    "static/media/home-bg.jpg": "/My-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/3.png": "/My-Portfolio/static/media/3.f04c7ab4c255e5b3136d.png",
+    "static/media/avatar.svg": "/My-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.8fa7df0c.css.map": "/My-Portfolio/static/css/main.8fa7df0c.css.map",
+    "main.c82a47e1.js.map": "/My-Portfolio/static/js/main.c82a47e1.js.map",
+    "453.ace21015.chunk.js.map": "/My-Portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa7df0c.css",
+    "static/js/main.c82a47e1.js"
+  ]
+}
